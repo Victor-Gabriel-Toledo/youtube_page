@@ -14,3 +14,5 @@ Este projeto consiste na recriação da interface do YouTube, com foco no uso do
 ✅ Organização de containers e itens flexíveis  
 ✅ Utilização do Flexbox para criação de layouts flexíveis e responsivos  
 ✅ Alinhamento e distribuição de elementos
+
+![Image](https://github.com/user-attachments/assets/7a039785-a1e3-47a4-9e2e-19c3153f376c)
